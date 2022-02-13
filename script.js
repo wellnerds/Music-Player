@@ -1,11 +1,11 @@
 var audio , playbtn , title , poster , artists , seekslider , seeking=false , seekto, currenttimetext , durationtimetext , playlist_status , dir , playlist , ext , agent , playlists_artists , repeat , random;
 
 dir = "songs/";
-playlist = ["Cartoon - On & On" , "Diviners-X-Riell-Slow" , "InfiNoise-Sunlight"]
+playlist = ["Isabella" , "Belissimo_Esposo" , "Mae de Deus"]
 
-title =["Cartoon - On & On" , "Slow" , "Sunlight"]
+title =["Isabella" , "Belissimo_Esposo" , "Mae de Deus"]
 poster=["images/1.jpg","images/2.jpg","images/3.jpg"]
-artists=["Daniel Levi", "Diviners-X-Riell","Nilka"]
+artists=["Wellington", "SHALOM","Luciana Antunes"]
 
 playlist_index = 0;
 
