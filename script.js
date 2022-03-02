@@ -1,11 +1,11 @@
 var audio , playbtn , title , poster , artists , seekslider , seeking=false , seekto, currenttimetext , durationtimetext , playlist_status , dir , playlist , ext , agent , playlists_artists , repeat , random;
 
 dir = "songs/";
-playlist = ["Isabella" , "Belissimo_Esposo" , "Mae de Deus"]
+playlist = ["Isabella" , "Belissimo_Esposo" , "Mae de Deus", "BEBER_DA_GRAÇA", "CAMARO_COM_JESUS", "DECIDI_ESPERAR", "DESAFIO_IN_DEUS", "PISEIRO" ] 
 
-title =["Isabella" , "Belissimo_Esposo" , "Mae de Deus"]
+title =["Isabella" , "Belissimo_Esposo" , "Mae de Deus", "BEBER_DA_GRAÇA", "CAMARO_COM_JESUS", "DECIDI_ESPERAR", "DESAFIO_IN_DEUS", "PISEIRO"]
 poster=["images/1.jpg","images/2.jpg","images/3.jpg"]
-artists=["Wellington", "SHALOM","Luciana Antunes"]
+artists=["Wellington", "SHALOM","Luciana Antunes", "Naldo José", "Naldo José", "Naldo José", "Naldo José", "Naldo José"]
 
 playlist_index = 0;
 
